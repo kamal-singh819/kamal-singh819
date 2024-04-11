@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamal-singh819&label=Profile%20views&color=0e75b6&style=flat" alt="kamal-singh819" /> </p>
 
-- 🌱 I’m currently learning **Web Development Libraries and Framework**
+- 🌱 I’m currently working on **MERN Projects**.
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS, NodeJS**
 
 - 📫 How to reach me **singh540kamal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zuVYvzajc6jnDrMqXFu9O5UBnN1itbrO/view?usp=sharing](https://drive.google.com/file/d/1zuVYvzajc6jnDrMqXFu9O5UBnN1itbrO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zuVYvzajc6jnDrMqXFu9O5UBnN1itbrO/view?usp=sharing]
 
 - ⚡ Fun fact **I am a cool and funny person**
 
